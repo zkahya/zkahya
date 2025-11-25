@@ -1,7 +1,7 @@
-# Hi!
+# Hi there!
 
 ## My Tech Stack
-- **Languages:** Python, SQL, JavaScript
+- **Languages:** Python, R, MATLAB, SQL
 - **Data Science:** Pandas, NumPy, Scikit-learn
 - **Machine Learning:** TensorFlow, PyTorch
 - **Visualization:** Plotly, Streamlit, Matplotlib
@@ -11,22 +11,22 @@
 <!-- -->
 
 
-## 📂 Project Portfolio
+##  Project Portfolio
 
-### 🔬 Data Science & ML
-- [Risk Analytics Dashboard](link) - Financial risk modeling with GARCH & Monte Carlo
+###  Data Science & ML
+- [Risk Analytics Dashboard](https://github.com/zkahya/financial-risk-dashboard) - Financial risk modeling with GARCH & Monte Carlo
 <!-- [Stock Predictor](link) - LSTM neural networks for price forecasting
 - [Customer Segmentation](link) - Clustering analysis for business insights
 
-### 🌐 Web Applications  
+###  Web Applications  
 - [Data Visualization Platform](link) - Interactive dashboards with Streamlit
 - [API Integration Tool](link) - RESTful services with FastAPI
 
-### 📊 Analytics Tools
+###  Analytics Tools
 - [ETL Pipeline](link) - Data processing and transformation
 - [Business Intelligence Dashboard](link) - KPI tracking and reporting
 
-## 📫 Let's Connect
+##  Let's Connect
 - [LinkedIn](your-linkedin)
 - [Portfolio Website](your-website)
 - [Email](your-email) -->
